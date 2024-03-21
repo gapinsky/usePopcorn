@@ -1,3 +1,7 @@
+React movies library.
+You can search movies, rate, add them to list and delete them.
+Using omdbapi. 
+
 ![image](https://github.com/gapinsky/usePopcorn/assets/139881075/6236c0ba-82d8-4cc0-a520-d071b9fbb001)
 ![image](https://github.com/gapinsky/usePopcorn/assets/139881075/0e3c7d7b-0a73-4a05-8582-b840d3f570dc)
 ![image](https://github.com/gapinsky/usePopcorn/assets/139881075/73c4ef26-efa4-475d-971c-637c3469613b)
